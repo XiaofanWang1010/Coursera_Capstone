@@ -1,4 +1,4 @@
 # Coursera_Capstone
-import pandas as pd
-import numpy as np
-print ("Hello Capstone Project Course!")
+## By Grace.W
+This notebook will be used for Coursera capstone project
+
